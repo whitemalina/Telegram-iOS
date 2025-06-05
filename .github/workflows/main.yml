@@ -1,2 +1,4 @@
-- name: Build iOS Action
-  uses: sparkfabrik/ios-build-action@v2.3.2
+  - name: Obvious - iOS Build Action
+  # You may pin to the exact commit or the version.
+  # uses: romiltiwari93/ios-build-action@69225d68a309579962a010da037b65d1e063e391
+  uses: romiltiwari93/ios-build-action@
